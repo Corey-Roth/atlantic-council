@@ -1,14 +1,14 @@
 {
-  "name": "napa-valley-college",
+  "name": "atlantic-council-email",
   "version": "1.0.0",
-  "description": "Landing page and email templates for Napa Valley College.",
+  "description": "Email template for the Atlantic Council.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "napa-valley-college"
+    "url": "atlantic-council-email"
   },
   "author": "Corey Roth",
   "license": "ISC",
